@@ -1,0 +1,36 @@
+body{
+	background-color:white;
+}
+
+#content{
+  background-color:green;
+  margin: 0 auto;
+}
+
+#contentbox{
+  background-color:green;
+  margin: 0 auto;
+  border: 4px dotted black;
+  width: 97%;
+}
+
+.Text1{
+		position: relative;
+		top: 85%;
+    color:red;
+		text-align: left;
+}
+
+.Text2{
+		position: relative;
+		top: 85%;
+    color:darkgreen;
+		text-align: left;
+}
+
+.Text3{
+		position: relative;
+		top: 85%;
+    color:purple;
+		text-align: left;
+}
